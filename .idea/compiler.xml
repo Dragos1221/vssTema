@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Inventory" />
         <module name="02_Inventory" />
+        <module name="vssTema" />
       </profile>
     </annotationProcessing>
   </component>
