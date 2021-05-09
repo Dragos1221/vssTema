@@ -1,0 +1,11 @@
+
+“
+java:S1319¸"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰íŞƒşÿÿÿÿ8šä‹ªƒ/
+“
+java:S1319´"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜©­üÿÿÿÿ8šä‹ªƒ/
+a
+java:S2147$"DCombine this catch with the one at line 34, which has the same body.(ï­£Ä8ñßÏ©ƒ/
+a
+java:S2147V"DCombine this catch with the one at line 84, which has the same body.(ï­£Ä8šä‹ªƒ/
+:
+java:S1643"Use a StringBuilder instead.(ŠÑ‡à8šä‹ªƒ/
